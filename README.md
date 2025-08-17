@@ -84,9 +84,9 @@ pokeball-animated/
 
 * With the mouse or trackpad, you can:
 
-** Orbit around the Pokéball in any direction
+   * Orbit around the Pokéball in any direction
 
-** Zoom in/out to explore closer details
+   * Zoom in/out to explore closer details
 
 This is enabled with OrbitControls combined with a custom animation loop.
 
