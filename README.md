@@ -51,8 +51,6 @@ npm install
 npm run dev
 ```
 
-> Adjust this section according to your real setup.
-
 ---
 
 ## 🧠 Concepts practiced
@@ -78,16 +76,19 @@ pokeball-animated/
    └─ style.css
 ```
 
-> Adjust file names/structure according to the real project.
-
 ---
 
 ## 🕹️ Controls (if applicable)
 
-* **Mouse/trackpad:** orbit/zoom (when `OrbitControls` is enabled)
-* **Responsive resize:** canvas adjusts to window size
+* The Pokéball rotates automatically in the scene.
 
-> Remove or adjust this section based on your implementation.
+* With the mouse or trackpad, you can:
+
+** Orbit around the Pokéball in any direction
+
+** Zoom in/out to explore closer details
+
+This is enabled with OrbitControls combined with a custom animation loop.
 
 ---
 
