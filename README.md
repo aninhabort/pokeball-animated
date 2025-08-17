@@ -56,8 +56,6 @@ npm run dev
 ## 🧠 Concepts practiced
 
 * Scene (`THREE.Scene`), camera (`THREE.PerspectiveCamera`), and renderer (`THREE.WebGLRenderer`)
-* Basic lighting for volume and highlights
-* Materials (reflection/gloss) for the Pokéball look
 * **Animation loop** with `requestAnimationFrame`
 
 ---
@@ -89,16 +87,6 @@ pokeball-animated/
    * Zoom in/out to explore closer details
 
 This is enabled with OrbitControls combined with a custom animation loop.
-
----
-
-## 📈 Next steps / Roadmap
-
-* Add shadows and more realistic lights (Directional/SpotLight with `castShadow`)
-* Apply textures/normal maps for details
-* Use HDRI for global lighting (IBL)
-* Add interactivity (hover/click) with `Raycaster`
-* Improve mobile performance
 
 ---
 
