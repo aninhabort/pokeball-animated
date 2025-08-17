@@ -7,7 +7,13 @@ Focus of the project: learning and practicing WebGL/Three.js fundamentals (scene
 
 ## ✨ Demo
 
-> Add here a live preview link (e.g., Netlify/Vercel) or a short GIF of the animation.
+🔗 **Live Demo:** [pokeball-animated.netlify.app](https://pokeball-animated.netlify.app/) 
+
+---
+
+## 📸 Preview
+
+![Preview](./assets/screenshot.png)
 
 ---
 
